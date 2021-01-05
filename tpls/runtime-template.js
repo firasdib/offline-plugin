@@ -138,7 +138,7 @@ function install(options) {
         });
       <% } %>
 
-      return;
+      return registration;
     }
   <% } %>
 
